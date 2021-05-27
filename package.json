@@ -12,7 +12,7 @@
         "react",
         "react-date"
     ],
-    "main": "dist/index.js",
+    "main": "src/index.js",
     "repository": {
         "type": "git",
         "url": "https://github.com/ssxv/react-dropdown-date.git"
@@ -27,7 +27,7 @@
         "@types/react-dom": "^16.9.8",
         "babel-core": "^6.26.3",
         "babel-runtime": "^6.26.0",
-        "react": "^16.13.1",
+        "react": "^17.0.2",
         "react-dom": "^16.13.1",
         "rollup": "^2.28.2",
         "rollup-plugin-typescript2": "^0.27.2",

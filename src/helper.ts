@@ -1,31 +1,31 @@
 export const monthByNumber = {
-    0: 'January',
-    1: 'February',
-    2: 'March',
-    3: 'April',
-    4: 'May',
-    5: 'June',
-    6: 'July',
-    7: 'August',
-    8: 'September',
-    9: 'October',
-    10: 'November',
-    11: 'December'
+    0: '1月',
+    1: '2月',
+    2: '3月',
+    3: '4月',
+    4: '5月',
+    5: '6月',
+    6: '7月',
+    7: '8月',
+    8: '9月',
+    9: '10月',
+    10: '11月',
+    11: '12月'
 };
 
 export const numberByMonth = {
-    January: 0,
-    February: 1,
-    March: 2,
-    April: 3,
-    May: 4,
-    June: 5,
-    July: 6,
-    August: 7,
-    September: 8,
-    October: 9,
-    November: 10,
-    December: 11
+    '1月': 0,
+    '2月': 1,
+    '3月': 2,
+    '4月': 3,
+    '5月': 4,
+    '6月': 5,
+    '7月': 6,
+    '8月': 7,
+    '9月': 8,
+    '10月': 9,
+    '11月': 10,
+    '12月': 11
 };
 
 export const daysInMonth = {
