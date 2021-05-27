@@ -39,7 +39,7 @@
         "start": "rollup -c -w"
     },
     "files": [
-        "dist"
+        "src"
     ],
     "bugs": {
         "url": "https://github.com/ssxv/react-dropdown-date/issues"
